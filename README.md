@@ -1,2 +1,1 @@
-# Turing
-Turing projects from highschool
+Some projects I did with turing in highschool.<br>
